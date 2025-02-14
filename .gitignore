@@ -1,0 +1,5 @@
+/out
+.env
+.exe
+/storage
+/config
